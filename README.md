@@ -1,2 +1,2 @@
-# Rainfall-amount(mm)-prediction
-Rainfall amount (mm) prediction
+# Rainfall prediction
+Rainfall prediction
